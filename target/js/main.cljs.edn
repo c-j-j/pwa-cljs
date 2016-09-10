@@ -1,0 +1,2 @@
+{:require [pwa-cljs.start]
+ :compiler-options {:asset-path "js/main.out"}}
